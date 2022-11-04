@@ -7,3 +7,5 @@ raw_data/
 *.pdf
 **/__pycache__/
 .env
+*.gz
+*.bin
